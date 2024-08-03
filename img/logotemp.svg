@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="611.30176"
+   height="51.25"
+   viewBox="0 0 611.30176 51.25"
+   version="1.1"
+   id="svg5"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false" />
+  <defs
+     id="defs2">
+    <rect
+       x="363.37189"
+       y="315.76859"
+       width="1323.3719"
+       height="514.11572"
+       id="rect113" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-654.34912,-514.375)">
+    <text
+       xml:space="preserve"
+       id="text111"
+       style="font-size:53.3333px;white-space:pre;shape-inside:url(#rect113);fill:#000000"
+       transform="translate(289.4416,190.46871)"><tspan
+         x="363.37109"
+         y="364.42712"
+         id="tspan540"><tspan
+           style="font-style:italic;font-weight:bold;font-family:Verdana;-inkscape-font-specification:'Verdana Bold Italic';fill:#0000ff"
+           id="tspan534">Pennsylvania</tspan><tspan
+           style="font-style:italic;font-weight:bold;font-family:Verdana;-inkscape-font-specification:'Verdana Bold Italic'"
+           id="tspan536"> </tspan><tspan
+           style="font-weight:bold;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';fill:#ff2a2a"
+           id="tspan538">Pantry</tspan></tspan></text>
+  </g>
+</svg>
